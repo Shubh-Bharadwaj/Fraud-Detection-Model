@@ -28,10 +28,6 @@ This project utilizes a comprehensive dataset, comprising 6,362,620 rows and 10 
 4. Model Evaluation: Assess model performance using classification metrics, confusion matrices, and more.
 5. Interpretation: Extract actionable insights from model results to aid in fraud detection strategies.
 
-**Why Fraud Detection Matters:**
-
-Fraudulent transactions can result in significant financial losses and damage to a company's reputation. Effective fraud detection is crucial for preserving trust and financial security in the digital age.
-
 **Contribution:**
 
 Contributions and improvements to this project are highly encouraged. Feel free to fork the repository, enhance the model, and share your findings and developments with the community.
